@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pcTmKg677yg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiago\\Desktop\\Tiago\\Universidade\\3º Ano\\2º Semestre\\SD\\SDTP1-master\\SDTP1\\SDTP1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\csvhelper\\32.0.3\\csvhelper.32.0.3.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
